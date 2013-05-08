@@ -1,0 +1,45 @@
+object Form1: TForm1
+  Left = 131
+  Height = 400
+  Top = 213
+  Width = 500
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = bsSingle
+  Caption = 'LIFF GUI'
+  ClientHeight = 400
+  ClientWidth = 500
+  Color = clWindow
+  OnCreate = FormCreate
+  LCLVersion = '1.0.8.0'
+  object MemoText: TMemo
+    Left = 8
+    Height = 367
+    Top = 24
+    Width = 376
+    Lines.Strings = (
+      'MemoText'
+    )
+    ReadOnly = True
+    ScrollBars = ssAutoVertical
+    TabOrder = 0
+  end
+  object LabelRoom: TLabel
+    Left = 8
+    Height = 16
+    Top = 8
+    Width = 64
+    Caption = 'LabelRoom'
+    Font.Style = [fsBold, fsItalic]
+    ParentColor = False
+    ParentFont = False
+  end
+  object ListBoxMenu: TListBox
+    Left = 392
+    Height = 367
+    Top = 24
+    Width = 104
+    ItemHeight = 0
+    OnClick = ListBoxMenuClick
+    TabOrder = 1
+  end
+end

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Production"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="liffgui.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="liffgui"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="22" Y="10"/>
+        <UsageCount Value="22"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="liffgui_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Liffgui_main"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="113"/>
+        <CursorPos X="41" Y="128"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="liffgui_main.pas"/>
+        <Caret Line="9" Column="17" TopLine="9"/>
+      </Position1>
+      <Position2>
+        <Filename Value="liffgui_main.pas"/>
+        <Caret Line="91" Column="39" TopLine="73"/>
+      </Position2>
+      <Position3>
+        <Filename Value="liffgui_main.pas"/>
+        <Caret Line="121" Column="28" TopLine="96"/>
+      </Position3>
+      <Position4>
+        <Filename Value="liffgui_main.pas"/>
+        <Caret Line="135" Column="49" TopLine="116"/>
+      </Position4>
+      <Position5>
+        <Filename Value="liffgui_main.pas"/>
+        <Caret Line="140" Column="12" TopLine="119"/>
+      </Position5>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
